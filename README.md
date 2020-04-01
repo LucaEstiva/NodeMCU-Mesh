@@ -10,6 +10,6 @@ https://github.com/EspressifApp/Esp32MeshForAndroid/raw/master/release/mesh.apk<
 <br>
 
 Development Environment:<br>
-esp-idf:&emsp;&emsp;https://github.com/espressif/esp-idf<br>
+esp-idf:&emsp;&emsp;&emsp;&emsp;https://github.com/espressif/esp-idf<br>
 xtensa-esp32-elf-gcc:&emsp;https://dl.espressif.com/dl/xtensa-esp32-elf-linux64-1.22.0-80-g6c4433a-5.2.0.tar.gz<br>
-arduino-esp32:&emsp;&emsp;https://github.com/espressif/arduino-esp32<br>
+arduino-esp32:&emsp;&emsp;&emsp;https://github.com/espressif/arduino-esp32<br>
